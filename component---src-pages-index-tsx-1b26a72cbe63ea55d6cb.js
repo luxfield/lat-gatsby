@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{QeBL:function(e,t,i){"use strict";i.r(t),i.d(t,"default",(function(){return s}));i("q1tI");var u=i("Bl7J"),n=i("qKvR");function s(){return Object(n.b)(u.a,null,Object(n.b)("p",null,"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium eveniet repudiandae quasi voluptates, repellat cupiditate! Ad iste dignissimos, tenetur sequi voluptatem quidem soluta velit explicabo dicta asperiores amet sint suscipit?"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-1b26a72cbe63ea55d6cb.js.map
